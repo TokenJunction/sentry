@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@oxlint/plugins": "1.90.0",
-    "postcss-selector-parser": "7.1.6"
+    "postcss-selector-parser": "7.1.7"
   },
   "devDependencies": {
     "oxlint": "1.90.0",
